@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bd0610d0-e5b4-413e-9167-19aaa2ab35e4)Transferred files using File Transfer Protocol (FTP) which uses port 21 from my Windows OS to my Kali Linux while monitoring and capturing the Network traffic with WIRESHARK.
+Transferred files using File Transfer Protocol (FTP) which uses port 21 from my Windows OS to my Kali Linux while monitoring and capturing the Network traffic with WIRESHARK.
 
 
 
